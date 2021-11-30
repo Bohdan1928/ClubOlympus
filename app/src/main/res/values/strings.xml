@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClubOlympus</string>
+    <string name="add_people">addPeople</string>
+    <string name="first_name">First Name</string>
+    <string name="lastname">LastName</string>
+    <string name="gender">Gender</string>
+    <string name="sport">Sport</string>
+    <string name="last_name">Last Name</string>
+</resources>
